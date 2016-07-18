@@ -15,10 +15,14 @@ public class Test {
 	//more_plugins
 	//more_plugs
 	//more_plugs3
+<<<<<<< HEAD
 =======
 		
 	//eclipse2
 >>>>>>> origin/master
+=======
+	//more_plugs4
+>>>>>>> more_plugs
 	}
 
 }
