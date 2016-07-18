@@ -7,12 +7,9 @@ public class Test {
 	//test
 	//test
 	//kolejny
-<<<<<<< HEAD
 
 	//bash
-=======
 	//eclipse
->>>>>>> origin/master
 	}
 
 }
