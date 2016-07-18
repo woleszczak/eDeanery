@@ -10,10 +10,15 @@ public class Test {
 
 	//bash
 	//eclipse
+<<<<<<< HEAD
 
 	//more_plugins
 	//more_plugs
 	//more_plugs3
+=======
+		
+	//eclipse2
+>>>>>>> origin/master
 	}
 
 }
