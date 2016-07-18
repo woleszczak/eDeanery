@@ -6,7 +6,6 @@ public class Test {
 		// TODO Auto-generated method stub
 	//test
 	//test
-	//test3
 	//kolejny
 	}
 
